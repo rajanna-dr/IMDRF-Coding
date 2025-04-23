@@ -1,0 +1,522 @@
+[
+  {
+    "complaint_id": "9681442-2025-00066",
+    "complaint_text": "On the first case of using the phaco machine, a smell of burning was noticed. The battery after being on charge all night had to be changed as it was showing as low battery. Water was not entering the cassette from the BSS resulting in air coming out and releasing bubbles. All equipment was checked for any kinks or signs of blockage, this was all normal. The handpiece was changed to a new one and the tubing changed to a new one unopened box. The current case was ended to restart to allow for a prime and tune. The prime and tune was successful. The water did go into the cassette, however it was continuing to release air bubbles. These issues were noted on three cases and a decision made to stop surgery. \u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201c No Error Codes given. (SYS05783)  Additional information requested.    Additional Information:  Patient involvement: No  Patient Injury:  No",
+    "device_problems": [
+      {
+        "term": "smell of burning",
+        "candidates": [
+          {
+            "code": "A1009",
+            "description": "No description available",
+            "distance": 0.3514172434806824
+          },
+          {
+            "code": "A1007",
+            "description": "No description available",
+            "distance": 0.3516206443309784
+          },
+          {
+            "code": "A0301",
+            "description": "No description available",
+            "distance": 0.38591712713241577
+          },
+          {
+            "code": "A1903",
+            "description": "No description available",
+            "distance": 0.39073798060417175
+          },
+          {
+            "code": "A1008",
+            "description": "No description available",
+            "distance": 0.39626818895339966
+          },
+          {
+            "code": "A1006",
+            "description": "No description available",
+            "distance": 0.43261784315109253
+          }
+        ]
+      },
+      {
+        "term": "battery showing as low battery",
+        "candidates": [
+          {
+            "code": "A070504",
+            "description": "No description available",
+            "distance": 0.2962857484817505
+          },
+          {
+            "code": "A070502",
+            "description": "No description available",
+            "distance": 0.3011230230331421
+          },
+          {
+            "code": "A0705",
+            "description": "No description available",
+            "distance": 0.3343092203140259
+          },
+          {
+            "code": "A070603",
+            "description": "No description available",
+            "distance": 0.33690187335014343
+          },
+          {
+            "code": "A070501",
+            "description": "No description available",
+            "distance": 0.3381032943725586
+          },
+          {
+            "code": "A070503",
+            "description": "No description available",
+            "distance": 0.3484916388988495
+          }
+        ]
+      },
+      {
+        "term": "Water was not entering the cassette from the BSS",
+        "candidates": [
+          {
+            "code": "A1408",
+            "description": "No description available",
+            "distance": 0.37893977761268616
+          },
+          {
+            "code": "A180303",
+            "description": "No description available",
+            "distance": 0.39626002311706543
+          },
+          {
+            "code": "A090802",
+            "description": "No description available",
+            "distance": 0.3966296911239624
+          },
+          {
+            "code": "A180305",
+            "description": "No description available",
+            "distance": 0.3972153067588806
+          },
+          {
+            "code": "A141203",
+            "description": "No description available",
+            "distance": 0.40905237197875977
+          },
+          {
+            "code": "A050705",
+            "description": "No description available",
+            "distance": 0.41068387031555176
+          }
+        ]
+      },
+      {
+        "term": "air coming out and releasing bubbles",
+        "candidates": [
+          {
+            "code": "A1415",
+            "description": "No description available",
+            "distance": 0.3444787859916687
+          },
+          {
+            "code": "A050402",
+            "description": "No description available",
+            "distance": 0.3728451132774353
+          },
+          {
+            "code": "A0403",
+            "description": "No description available",
+            "distance": 0.37631672620773315
+          },
+          {
+            "code": "A140502",
+            "description": "No description available",
+            "distance": 0.38408297300338745
+          },
+          {
+            "code": "A1408",
+            "description": "No description available",
+            "distance": 0.39691728353500366
+          },
+          {
+            "code": "A1009",
+            "description": "No description available",
+            "distance": 0.3970177173614502
+          }
+        ]
+      },
+      {
+        "term": "continuing to release air bubbles",
+        "candidates": [
+          {
+            "code": "A140502",
+            "description": "No description available",
+            "distance": 0.39835426211357117
+          },
+          {
+            "code": "A140101",
+            "description": "No description available",
+            "distance": 0.4022100567817688
+          },
+          {
+            "code": "A0403",
+            "description": "No description available",
+            "distance": 0.40527939796447754
+          },
+          {
+            "code": "A050403",
+            "description": "No description available",
+            "distance": 0.4093492925167084
+          },
+          {
+            "code": "A050402",
+            "description": "No description available",
+            "distance": 0.41531088948249817
+          },
+          {
+            "code": "A140509",
+            "description": "No description available",
+            "distance": 0.4185161590576172
+          }
+        ]
+      }
+    ],
+    "patient_problems": []
+  },
+  {
+    "complaint_id": "9681442-2025-00067",
+    "complaint_text": "It was reported that an intraocular lens (iol) was explanted from a patient's right eye fourteen months post implant due to calcification on the lens. The original implant procedure was uncomplicated. The orientation of the lens did not change. The patient reported a film over their vision did not improve with blinking and would not resolve. The lens was explanted and replaced with a lens of a different model and diopter, using irrigation and aspiration. The surgeon described an abnormal film on the anterior surface of the lens it was sent to lab and was found to be calcified layer. The patient's outcome is good.",
+    "device_problems": [
+      {
+        "term": "calcification on the lens",
+        "candidates": [
+          {
+            "code": "A040501",
+            "description": "No description available",
+            "distance": 0.32833021879196167
+          },
+          {
+            "code": "A0409",
+            "description": "No description available",
+            "distance": 0.390436053276062
+          },
+          {
+            "code": "A0602",
+            "description": "No description available",
+            "distance": 0.4092017412185669
+          },
+          {
+            "code": "A0603",
+            "description": "No description available",
+            "distance": 0.431928426027298
+          },
+          {
+            "code": "A040604",
+            "description": "No description available",
+            "distance": 0.4436454772949219
+          },
+          {
+            "code": "A0604",
+            "description": "No description available",
+            "distance": 0.4502065181732178
+          }
+        ]
+      },
+      {
+        "term": "abnormal film on the anterior surface of the lens",
+        "candidates": [
+          {
+            "code": "A0602",
+            "description": "No description available",
+            "distance": 0.37251153588294983
+          },
+          {
+            "code": "A0604",
+            "description": "No description available",
+            "distance": 0.3884424567222595
+          },
+          {
+            "code": "A0409",
+            "description": "No description available",
+            "distance": 0.3901457190513611
+          },
+          {
+            "code": "A040604",
+            "description": "No description available",
+            "distance": 0.3952743411064148
+          },
+          {
+            "code": "A0603",
+            "description": "No description available",
+            "distance": 0.4026600122451782
+          },
+          {
+            "code": "A040505",
+            "description": "No description available",
+            "distance": 0.411954402923584
+          }
+        ]
+      }
+    ],
+    "patient_problems": [
+      {
+        "term": "film over their vision",
+        "candidates": [
+          {
+            "code": "E08",
+            "description": "No description available",
+            "distance": 0.41228508949279785
+          },
+          {
+            "code": "E0839",
+            "description": "No description available",
+            "distance": 0.43192678689956665
+          },
+          {
+            "code": "E083903",
+            "description": "No description available",
+            "distance": 0.4326466917991638
+          },
+          {
+            "code": "E083901",
+            "description": "No description available",
+            "distance": 0.4387305974960327
+          },
+          {
+            "code": "E0854",
+            "description": "No description available",
+            "distance": 0.442499577999115
+          },
+          {
+            "code": "E083802",
+            "description": "No description available",
+            "distance": 0.4470970928668976
+          }
+        ]
+      },
+      {
+        "term": "did not improve with blinking",
+        "candidates": [
+          {
+            "code": "E0854",
+            "description": "No description available",
+            "distance": 0.4146728217601776
+          },
+          {
+            "code": "E083901",
+            "description": "No description available",
+            "distance": 0.44074636697769165
+          },
+          {
+            "code": "E0839",
+            "description": "No description available",
+            "distance": 0.44378963112831116
+          },
+          {
+            "code": "E083801",
+            "description": "No description available",
+            "distance": 0.44785168766975403
+          },
+          {
+            "code": "E0820",
+            "description": "No description available",
+            "distance": 0.4515412449836731
+          },
+          {
+            "code": "E0820",
+            "description": "No description available",
+            "distance": 0.4515412449836731
+          }
+        ]
+      },
+      {
+        "term": "would not resolve",
+        "candidates": [
+          {
+            "code": "E0405",
+            "description": "No description available",
+            "distance": 0.4711536765098572
+          },
+          {
+            "code": "E0518",
+            "description": "No description available",
+            "distance": 0.48547977209091187
+          },
+          {
+            "code": "E0906",
+            "description": "No description available",
+            "distance": 0.4943716526031494
+          },
+          {
+            "code": "E1107",
+            "description": "No description available",
+            "distance": 0.4957013726234436
+          },
+          {
+            "code": "E0844",
+            "description": "No description available",
+            "distance": 0.4958832859992981
+          },
+          {
+            "code": "E0752",
+            "description": "No description available",
+            "distance": 0.49976611137390137
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "complaint_id": "9681442-2025-00068",
+    "complaint_text": "Customer said the smoke came out of the back of their Stellaris and it smells like burnt wires. This happened as soon as the customer turned it on this morning. The customer immediately turned the system off and removed it from the room. (SYS01892)",
+    "device_problems": [
+      {
+        "term": "smoke came out of the back",
+        "candidates": [
+          {
+            "code": "A1009",
+            "description": "No description available",
+            "distance": 0.3018034100532532
+          },
+          {
+            "code": "A1007",
+            "description": "No description available",
+            "distance": 0.37304913997650146
+          },
+          {
+            "code": "A140507",
+            "description": "No description available",
+            "distance": 0.415225625038147
+          },
+          {
+            "code": "A0510",
+            "description": "No description available",
+            "distance": 0.4182932376861572
+          },
+          {
+            "code": "A0505",
+            "description": "No description available",
+            "distance": 0.4227043390274048
+          },
+          {
+            "code": "A1903",
+            "description": "No description available",
+            "distance": 0.4234920144081116
+          }
+        ]
+      },
+      {
+        "term": "smells like burnt wires",
+        "candidates": [
+          {
+            "code": "A0301",
+            "description": "No description available",
+            "distance": 0.38089507818222046
+          },
+          {
+            "code": "A1009",
+            "description": "No description available",
+            "distance": 0.38887134194374084
+          },
+          {
+            "code": "A1007",
+            "description": "No description available",
+            "distance": 0.402324914932251
+          },
+          {
+            "code": "A1008",
+            "description": "No description available",
+            "distance": 0.42163538932800293
+          },
+          {
+            "code": "A1903",
+            "description": "No description available",
+            "distance": 0.4343644380569458
+          },
+          {
+            "code": "A072102",
+            "description": "No description available",
+            "distance": 0.4365144371986389
+          }
+        ]
+      }
+    ],
+    "patient_problems": []
+  },
+  {
+    "complaint_id": "9681442-2025-00069",
+    "complaint_text": "A posterior lens was removed and replaced with an anterior chamber lens. Reportedly, the lens was damaged and pupils were dilated.; a vitrectomy was performed.",
+    "device_problems": [
+      {
+        "term": "the lens was damaged",
+        "candidates": [
+          {
+            "code": "A0602",
+            "description": "No description available",
+            "distance": 0.3500930964946747
+          },
+          {
+            "code": "A0601",
+            "description": "No description available",
+            "distance": 0.39074498414993286
+          },
+          {
+            "code": "A0604",
+            "description": "No description available",
+            "distance": 0.3978210985660553
+          },
+          {
+            "code": "A040604",
+            "description": "No description available",
+            "distance": 0.39933598041534424
+          },
+          {
+            "code": "A0204",
+            "description": "No description available",
+            "distance": 0.4056929349899292
+          },
+          {
+            "code": "A0206",
+            "description": "No description available",
+            "distance": 0.41387659311294556
+          }
+        ]
+      }
+    ],
+    "patient_problems": [
+      {
+        "term": "pupils were dilated",
+        "candidates": [
+          {
+            "code": "E0854",
+            "description": "No description available",
+            "distance": 0.18003717064857483
+          },
+          {
+            "code": "E0832",
+            "description": "No description available",
+            "distance": 0.3112293481826782
+          },
+          {
+            "code": "E0856",
+            "description": "No description available",
+            "distance": 0.3365902900695801
+          },
+          {
+            "code": "E0833",
+            "description": "No description available",
+            "distance": 0.3484722375869751
+          },
+          {
+            "code": "E0807",
+            "description": "No description available",
+            "distance": 0.3795771896839142
+          },
+          {
+            "code": "E0807",
+            "description": "No description available",
+            "distance": 0.3795771896839142
+          }
+        ]
+      }
+    ]
+  }
+]

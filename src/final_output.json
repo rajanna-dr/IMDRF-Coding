@@ -1,0 +1,46 @@
+[
+  {
+    "complaint_text": "On the first case of using the phaco machine, a smell of burning was noticed. The battery after being on charge all night had to be changed as it was showing as low battery. Water was not entering the cassette from the BSS resulting in air coming out and releasing bubbles. All equipment was checked for any kinks or signs of blockage, this was all normal. The handpiece was changed to a new one and the tubing changed to a new one unopened box. The current case was ended to restart to allow for a prime and tune. The prime and tune was successful. The water did go into the cassette, however it was continuing to release air bubbles. These issues were noted on three cases and a decision made to stop surgery. \u00c3\u0192\u00c2\u00a2\u00c3\u00a2\u00e2\u20ac\u0161\u00c2\u00ac\u00c3\u00a2\u00e2\u201a\u00ac\u00c5\u201c No Error Codes given. (SYS05783)  Additional information requested.    Additional Information:  Patient involvement: No  Patient Injury:  No",
+    "device_problems": [
+      "smell of burning",
+      "battery showing as low battery",
+      "Water was not entering the cassette from the BSS",
+      "air coming out and releasing bubbles",
+      "continuing to release air bubbles"
+    ],
+    "patient_problems": [],
+    "complaint_id": "9681442-2025-00066"
+  },
+  {
+    "complaint_text": "It was reported that an intraocular lens (iol) was explanted from a patient's right eye fourteen months post implant due to calcification on the lens. The original implant procedure was uncomplicated. The orientation of the lens did not change. The patient reported a film over their vision did not improve with blinking and would not resolve. The lens was explanted and replaced with a lens of a different model and diopter, using irrigation and aspiration. The surgeon described an abnormal film on the anterior surface of the lens it was sent to lab and was found to be calcified layer. The patient's outcome is good.",
+    "device_problems": [
+      "calcification on the lens",
+      "abnormal film on the anterior surface of the lens"
+    ],
+    "patient_problems": [
+      "film over their vision",
+      "did not improve with blinking",
+      "would not resolve"
+    ],
+    "complaint_id": "9681442-2025-00067"
+  },
+  {
+    "complaint_text": "Customer said the smoke came out of the back of their Stellaris and it smells like burnt wires. This happened as soon as the customer turned it on this morning. The customer immediately turned the system off and removed it from the room. (SYS01892)",
+    "device_problems": [
+      "smoke came out of the back",
+      "smells like burnt wires"
+    ],
+    "patient_problems": [],
+    "complaint_id": "9681442-2025-00068"
+  },
+  {
+    "complaint_text": "A posterior lens was removed and replaced with an anterior chamber lens. Reportedly, the lens was damaged and pupils were dilated.; a vitrectomy was performed.",
+    "device_problems": [
+      "the lens was damaged"
+    ],
+    "patient_problems": [
+      "pupils were dilated"
+    ],
+    "complaint_id": "9681442-2025-00069"
+  }
+]
